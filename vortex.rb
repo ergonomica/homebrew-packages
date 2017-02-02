@@ -1,6 +1,6 @@
 require 'formula'
 
-class Ergonomica < Formula
+class Vortex < Formula
   homepage 'https://github.com/ergonomica/package-vortex'
   url 'https://github.com/ergonomica/package-vortex.git'
 
