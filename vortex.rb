@@ -8,7 +8,7 @@ class Ergonomica < Formula
 
   def install
 
-    system "cp", "vortex.py", "~/.ergo/"
+    system "cp", "vortex.py", "~/.ergo/packages"
     
   end
 end
